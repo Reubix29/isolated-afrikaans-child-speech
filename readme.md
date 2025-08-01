@@ -7,6 +7,11 @@ The Isolated Afrikaans Child Speech (ISACS) dataset contains recordings of isola
 - It also includes 15 child template examples per keyword, spoken by children not included in the dev or test sets.
 
 This setup allows for direct comparison between child and adult speech representations in few-shot classification tasks.
+
+The dataset is described in the following paper. Please cite the paper if you use the data:
+
+- R, Smit, R, Louw, and H, Kamper, "Towards few-shot isolated word reading assessment," accepted to the the Workshop on Speech and Language Technology in Education (SLaTE), 2025.[[arXiv](https://arxiv.org/abs/2507.12217)]
+
 ## Download
 
 ISACS (36.84 MB):
