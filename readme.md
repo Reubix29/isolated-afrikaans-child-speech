@@ -10,7 +10,7 @@ This setup allows for direct comparison between child and adult speech represent
 
 The dataset is described in the following paper. Please cite the paper if you use the data:
 
-- R, Smit, R, Louw, and H, Kamper, "Towards few-shot isolated word reading assessment," accepted to the the Workshop on Speech and Language Technology in Education (SLaTE), 2025.[[arXiv](https://arxiv.org/abs/2507.12217)]
+- R, Smit, R, Louw, and H, Kamper, "Towards few-shot isolated word reading assessment," accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.[[arXiv](https://arxiv.org/abs/2507.12217)]
 
 ## Download
 
